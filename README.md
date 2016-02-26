@@ -1,4 +1,4 @@
-# JLCloudKitSync
+# JLCloudKitSync [![codebeat](https://codebeat.co/badges/0803ae6d-7b21-4adb-a6da-ded21e7449f9)](https://codebeat.co/projects/github-com-waynezhang-jlcloudkitsync)
 Sync CoreData with CloudKit
 
 __A dirty implementation to sync core data with CloudKit. Still under heavy development.__
